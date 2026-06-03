@@ -1,6 +1,7 @@
                 #  LIST
 
 
+
 # LIST INTRO             
 # lst=[1,2,4,4.9,"hello",[2,8]]
 # print(lst)
